@@ -86,19 +86,21 @@ The Insights to the problem statement above are as follows:
 1.  **Which product categories drive the biggest profits? Is this the same across store locations?**
 
     As Indicated on the "Top Sales by Category" bookmark, The TOY category had produced the biggest profits ($630,029)in the Downtown Location followed by the Electronics category driving reasonable profits of 
-    $287,584 and $108,197 in the Commercial and Airport Locations respectively. 
+    $287,584 and $108,197 in the Commercial and Airport Locations respectively.
+    For Gross profits generated, it is also indicated that the **Electronics categories** drive more percentage profits over time. 
 
-2.  **Can you find any seasonal trends or patterns in the sales data?**
+3.  **Can you find any seasonal trends or patterns in the sales data?**
 
     The  Sport and Outdoor departments generated low revenue in 2018 and 2017 compared to other categories. 
     The Electronics category experienced the lowest dip. However, the Arts category experienced a revenue surge in 2018 which could indicates a high demand due to creation of high demand toys. 
 
-3.  **Are sales being lost with out-of-stock products at certain locations?**
+4.  **Are sales being lost with out-of-stock products at certain locations?**
 
     Yes. 
-    About 39 stores currently have 0 products in certain locations. 
+    About 39 stores currently have 0 products in certain locations.
+    Downtown location has more stores with low stock (below 500 units) than other locations. 
 
-4. **How much money is tied up in inventory at the toy stores? How long will it last?**
+6. **How much money is tied up in inventory at the toy stores? How long will it last?**
 
     There was over $15 million tied up in inventory from 1999 and lasted up until 2016.
 
@@ -108,5 +110,5 @@ The Insights to the problem statement above are as follows:
 - To avoid out of stock products, Mavin toy Store will have to increase their production capacity of highly sought products and distribute to respective locations. This might also be capital intensive and assets obtained. 
 
 - For toy categories that generated low revenue like Sports and Outdoors, it is recommended to undertake a customer feedback survey and market survey to know the products desired by customers before production. 
-	This will automatically improve sales for Sports and Outdoors category. 
+  This will automatically improve sales for Sports and Outdoors category. 
 
