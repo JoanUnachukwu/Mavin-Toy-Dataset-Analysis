@@ -87,6 +87,7 @@ The Insights to the problem statement above are as follows:
 
     As Indicated on the "Top Sales by Category" bookmark, The TOY category had produced the biggest profits ($630,029)in the Downtown Location followed by the Electronics category driving reasonable profits of 
     $287,584 and $108,197 in the Commercial and Airport Locations respectively.
+
     For Gross profits generated, it is also indicated that the **Electronics categories** drive more percentage profits over time. 
 
 3.  **Can you find any seasonal trends or patterns in the sales data?**
@@ -98,6 +99,7 @@ The Insights to the problem statement above are as follows:
 
     Yes. 
     About 39 stores currently have 0 products in certain locations.
+
     Downtown location has more stores with low stock (below 500 units) than other locations. 
 
 6. **How much money is tied up in inventory at the toy stores? How long will it last?**
