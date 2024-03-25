@@ -38,7 +38,6 @@ The report comprises of 7 pages:
 6. Dashboard at a Glance
 7. Insights
 
-
 ![Title Page Screenshot](https://github.com/JoanUnachukwu/Mavin-Toy-Dataset-Analysis/assets/108992550/e30a692d-8e49-4068-a2e7-7d9e500f9659)
 
 Features:
@@ -47,6 +46,7 @@ A Power Point uniquely designed Title Page with the following features:
 - 6 Page Navigator Buttons with that navigates to the page with a similar name.
 - A rectangular shaped element that embodies the title of the analysis.
 
+You can interact with the data [here](https://app.powerbi.com/links/Bt2PgR8MJh?ctid=124b8b49-ad03-4c2a-b001-cfbbe232a0cf&pbi_source=linkShare)
 ## Data Sourcing
 The data used is from a fictitious toy store derived from Maven Analytics. It is a folder containing for different 4 .csv files/tables namely inventory.csv, product.csv, stores.csv, sales.csv.
 
