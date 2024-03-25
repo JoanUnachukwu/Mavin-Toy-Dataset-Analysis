@@ -38,7 +38,6 @@ The report comprises of 7 pages:
 6. Dashboard at a Glance
 7. Insights
 
-You can interact with the report [here]
 
 ![Title Page Screenshot](https://github.com/JoanUnachukwu/Mavin-Toy-Dataset-Analysis/assets/108992550/e30a692d-8e49-4068-a2e7-7d9e500f9659)
 
@@ -78,7 +77,6 @@ The following calculated measures were also created:
 ## Modelling
 The data model is a star schema that creates relationships between the tables using primary and foreign keys. 
 
-
 ## Analysis & Visualizations
 
 The Insights to the problem statement above are as follows: 
@@ -90,22 +88,33 @@ The Insights to the problem statement above are as follows:
 
     For Gross profits generated, it is also indicated that the **Electronics categories** drive more percentage profits over time. 
 
-3.  **Can you find any seasonal trends or patterns in the sales data?**
+![](top_selling_locations.png)
+
+2.  **Can you find any seasonal trends or patterns in the sales data?**
 
     The  Sport and Outdoor departments generated low revenue in 2018 and 2017 compared to other categories. 
     The Electronics category experienced the lowest dip. However, the Arts category experienced a revenue surge in 2018 which could indicates a high demand due to creation of high demand toys. 
 
-4.  **Are sales being lost with out-of-stock products at certain locations?**
+![](seasonal_trends.png)
+
+3.  **Are sales being lost with out-of-stock products at certain locations?**
 
     Yes. 
     About 39 stores currently have 0 products in certain locations.
+    Downtown location has more stores with low stock (below 500 units) than other locations.
 
-    Downtown location has more stores with low stock (below 500 units) than other locations. 
+    ![](out_of_stock.png)
 
-6. **How much money is tied up in inventory at the toy stores? How long will it last?**
+4. **How much money is tied up in inventory at the toy stores? How long will it last?**
 
     There was over $15 million tied up in inventory from 1999 and lasted up until 2016.
 
+## Key KPIs
+
+![](kpis_at_a_glance.png)
+
+## Dasboard Preview
+![](dashboard_at_a_glance.png)
 
 ## Recommendations
 
